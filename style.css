@@ -1,13 +1,1 @@
-.button {
-  background-color: red;
-  color: white;
-  border: none;
-  height: 36px;
-  widht: 85px;
-  border-radius: 3px;
-  positon: center;
-}
 
-.button hover {
-  background-color: rgb(230, 0, 0) 
-}
